@@ -16,7 +16,7 @@ public class Ejercicio_5_DoWhile {
 
         Scanner entrada = new Scanner(System.in);
 
-        int numEmpleados=0, i=0;
+        int i=0, numEmpleados;
 
         System.out.print("Ingrese el numero de empleados: ");
         numEmpleados = entrada.nextInt();
