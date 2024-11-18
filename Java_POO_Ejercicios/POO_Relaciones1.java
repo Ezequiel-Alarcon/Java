@@ -63,7 +63,7 @@ class Alumno {
 }
 
 // Clase principal
-public class POO_Relaciones {
+public class POO_Relaciones1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         ArrayList<Alumno> alumnos = new ArrayList<>();
